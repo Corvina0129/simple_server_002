@@ -1,4 +1,4 @@
-###### A simple server
+A simple server
 1. receives a request from a client
 2. reads request
 3. finds out what methods the client used
